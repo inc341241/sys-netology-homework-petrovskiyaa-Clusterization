@@ -13,6 +13,7 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
 <img src = "img/1.png" width = 100%>
+
 ### Конфигурация:
 [HAProxy Config](https://github.com/inc341241/sys-netology-homework-petrovskiyaa-Clusterization/blob/main/сfg/haproxy1.cfg)
 
@@ -25,4 +26,6 @@
  <img src = "img/2.png" width = 100%>
 
  <img src = "img/3.png" width = 100%>
+ 
+ ### Конфигурация:
  [HAProxy Config](https://github.com/inc341241/sys-netology-homework-petrovskiyaa-Clusterization/blob/main/сfg/haproxy2.cfg)
