@@ -14,7 +14,7 @@
 
 <img src = "img/1.png" width = 100%>
 ### Конфигурация:
-[HAProxy Config](cfg/haproxy1.cfg)
+[HAProxy Config](https://github.com/inc341241/sys-netology-homework-petrovskiyaa-Clusterization/blob/main/сfg/haproxy1.cfg)
 
 ### Задание 2
 - Запустите три simple python сервера на своей виртуальной машине на разных портах
@@ -25,3 +25,4 @@
  <img src = "img/2.png" width = 100%>
 
  <img src = "img/3.png" width = 100%>
+ [HAProxy Config](https://github.com/inc341241/sys-netology-homework-petrovskiyaa-Clusterization/blob/main/сfg/haproxy2.cfg)
