@@ -24,8 +24,6 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
  
  <img src = "img/2.png" width = 100%>
-
- <img src = "img/3.png" width = 100%>
  
  ### Конфигурация №2:
  [HAProxy Config](https://github.com/inc341241/sys-netology-homework-petrovskiyaa-Clusterization/blob/main/сfg/haproxy2.cfg)
