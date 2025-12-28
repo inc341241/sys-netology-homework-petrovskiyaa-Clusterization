@@ -14,7 +14,7 @@
 
 <img src = "img/1.png" width = 100%>
 
-### Конфигурация 1:
+### Конфигурация №1:
 [HAProxy Config](https://github.com/inc341241/sys-netology-homework-petrovskiyaa-Clusterization/blob/main/сfg/haproxy1.cfg)
 
 ### Задание 2
@@ -27,5 +27,5 @@
 
  <img src = "img/3.png" width = 100%>
  
- ### Конфигурация 2:
+ ### Конфигурация №2:
  [HAProxy Config](https://github.com/inc341241/sys-netology-homework-petrovskiyaa-Clusterization/blob/main/сfg/haproxy2.cfg)
